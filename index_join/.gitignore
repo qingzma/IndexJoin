@@ -1,0 +1,7 @@
+build/
+data/
+build.debug/
+build.release/
+build2
+build.old
+cmake-build-debug/
